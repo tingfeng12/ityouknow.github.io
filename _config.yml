@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: github_tingfeng12/github_tingfeng.github.io
 github_url: https://github.com/tingfeng12
-url: http://github_tingfeng12.github.io
-## enforce_ssl: github_tingfeng.com
+url: http://tingfeng12.github.io
+## enforce_ssl: tingfeng12.com
 
 ## Gem
 plugins:
